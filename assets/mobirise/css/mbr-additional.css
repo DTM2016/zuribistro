@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1824,7 +1824,7 @@ body {
 .cid-rp3TSCQlha {
   padding-top: 30px;
   padding-bottom: 60px;
-  background-color: #f0e4ba;
+  background-color: #efefef;
 }
 .cid-rp3TSCQlha .mbr-section-subtitle {
   color: #767676;
@@ -2277,7 +2277,7 @@ body {
 .cid-rp4o1pdbdD {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f0e4ba;
+  background-color: #efefef;
 }
 .cid-rp4o1pdbdD .title {
   margin-bottom: 2rem;
