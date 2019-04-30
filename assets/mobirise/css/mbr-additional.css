@@ -1878,7 +1878,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rp4ADAmvu2 {
-  padding-top: 75px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #e4d295;
 }
@@ -1955,7 +1955,7 @@ body {
   color: #663300;
 }
 .cid-rp4RGMQ56h {
-  padding-top: 75px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #e4d295;
 }
@@ -2032,7 +2032,7 @@ body {
   color: #663300;
 }
 .cid-rp4Tdrx90s {
-  padding-top: 75px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #e4d295;
 }
@@ -2061,7 +2061,7 @@ body {
   color: #787324;
 }
 .cid-rp4BnHlTTa {
-  padding-top: 75px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #e4d295;
 }
@@ -2106,7 +2106,7 @@ body {
   background: transparent !important;
 }
 .cid-rp4CmPq5gj .mbr-gallery-item > div:hover:before {
-  opacity: 1 !important;
+  opacity: 0.8 !important;
 }
 .cid-rp4CmPq5gj .mbr-gallery-title {
   font-size: .9em;
@@ -2127,7 +2127,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #e4d295 !important;
-  opacity: 1;
+  opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
@@ -2136,7 +2136,7 @@ body {
   color: #663300;
 }
 .cid-rp4urz4x83 {
-  padding-top: 75px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #e4d295;
 }
