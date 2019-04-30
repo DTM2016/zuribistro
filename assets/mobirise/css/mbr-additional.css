@@ -1924,7 +1924,7 @@ body {
   background: transparent !important;
 }
 .cid-rp4E6hc9Bp .mbr-gallery-item > div:hover:before {
-  opacity: 1 !important;
+  opacity: 0.8 !important;
 }
 .cid-rp4E6hc9Bp .mbr-gallery-title {
   font-size: .9em;
@@ -1945,7 +1945,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #e4d295 !important;
-  opacity: 1;
+  opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #e4d295, #e4d295) !important;
@@ -2001,7 +2001,7 @@ body {
   background: transparent !important;
 }
 .cid-rp4RJTP3ar .mbr-gallery-item > div:hover:before {
-  opacity: 1 !important;
+  opacity: 0.8 !important;
 }
 .cid-rp4RJTP3ar .mbr-gallery-title {
   font-size: .9em;
@@ -2022,7 +2022,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #e4d295 !important;
-  opacity: 1;
+  opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #e4d295, #e4d295) !important;
@@ -2181,7 +2181,7 @@ body {
   background: transparent !important;
 }
 .cid-rp3SCcRB1c .mbr-gallery-item > div:hover:before {
-  opacity: 1 !important;
+  opacity: 0.8 !important;
 }
 .cid-rp3SCcRB1c .mbr-gallery-title {
   font-size: .9em;
@@ -2202,7 +2202,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #e4d295 !important;
-  opacity: 1;
+  opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
