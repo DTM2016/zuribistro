@@ -1800,11 +1800,11 @@ body {
 .cid-rp3QzoRIS8 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffd451;
+  background-color: #ffffff;
 }
 .cid-rp3QzoRIS8 .line {
-  background-color: #b1a374;
-  color: #b1a374;
+  background-color: #333333;
+  color: #333333;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1952,6 +1952,9 @@ body {
   text-align: center;
   color: #663300;
 }
+.cid-rp4E6hc9Bp .mbr-gallery-item > div > span B {
+  color: #0f7699;
+}
 .cid-rp4RGMQ56h {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2026,6 +2029,9 @@ body {
 .cid-rp4RJTP3ar .mbr-gallery-item > div > span {
   text-align: center;
   color: #663300;
+}
+.cid-rp4RJTP3ar .mbr-gallery-item > div > span B {
+  color: #0f7699;
 }
 .cid-rp4Tdrx90s {
   padding-top: 30px;
@@ -2131,6 +2137,9 @@ body {
   text-align: center;
   color: #663300;
 }
+.cid-rp4CmPq5gj .mbr-gallery-item > div > span B {
+  color: #0f7699;
+}
 .cid-rp4urz4x83 {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2207,7 +2216,7 @@ body {
   text-align: center;
 }
 .cid-rp3SCcRB1c .mbr-gallery-item > div > span B {
-  color: #663300;
+  color: #0f7699;
 }
 .cid-rp3K5RJIZ1 {
   padding-top: 90px;
