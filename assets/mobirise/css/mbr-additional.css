@@ -1875,7 +1875,7 @@ body {
 .cid-rp4Pn2kldn {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffd451;
+  background-color: #ffffff;
 }
 .cid-rp4ADAmvu2 {
   padding-top: 30px;
@@ -2322,7 +2322,7 @@ body {
 .cid-rp3MKc5qG2 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #663300;
+  background-color: #333333;
 }
 @media (max-width: 767px) {
   .cid-rp3MKc5qG2 .content {
@@ -2403,4 +2403,7 @@ body {
 }
 .cid-rp3MKc5qG2 .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-rp3MKc5qG2 P {
+  color: #149dcc;
 }
